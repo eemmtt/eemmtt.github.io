@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+p {
+  font-family: Courier;
+  font-size: 10px;
+  font-size: 2.5vw;
+}
+
